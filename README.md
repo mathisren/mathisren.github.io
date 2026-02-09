@@ -35,5 +35,5 @@ Je pratique également la musique au conservatoire
 
 ## 📬 Contact
 - 📧 Email : mathis.renou@ens.uvsq.fr
-- 💼 LinkedIn : linkedin.com/in/mathis-renou/
+- 💼 LinkedIn : linkedin.com/in/mathis-renou
 - 💻 GitHub : https://github.com/mathisren
