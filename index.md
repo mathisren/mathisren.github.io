@@ -43,6 +43,8 @@ Je pratique également la musique au conservatoire
 - Objectif : Développement d'une interface permettant l'extraction, le traitement et l'analyse de tweets
 - Méthodes : Bert, Deep learning, JSON, SQLlite
 - 🔗 Github : [github/Interface_NLP](https://github.com/mathisren/NLP_Interface)
+
+
 ---
 
 ## 📄 CV
