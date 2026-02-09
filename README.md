@@ -16,12 +16,12 @@ Je pratique également la musique au conservatoire
 - **Contexte** : projet académique en bio-informatique
 - **Objectif** : calcul et visualisation du profil d’hydrophobicité d’une protéine à partir de sa séquence
 - **Langage de programmation** : Python
-- 🔗 **Code** : https://github.com/ton-nom/nom-du-projet
+- 🔗 **Code** : https://github.com/
 
 
 ### 🔹 Projet – Poster Scientifique
 - Objectif : Création d'un poster scientifique 
-- 🔗 PDF : [Poster scientifique (PDF)](assets/poster.pdf)
+- 🔗 PDF : [Poster scientifique (PDF)](poster.pdf)
 
 ### 🔹 Projet – RegexEgales
 - Objectif : Le but de ce projet est de construire les automates minimums complets de deux expressions régulières et de tester leur égalité
@@ -31,7 +31,7 @@ Je pratique également la musique au conservatoire
 ---
 
 ## 📄 CV
-- CV PDF : 
+- CV : [CV (PDF)](poster.pdf)
 
 ## 📬 Contact
 - 📧 Email : mathis.renou@ens.uvsq.fr
