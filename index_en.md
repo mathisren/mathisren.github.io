@@ -34,6 +34,15 @@ I also practice music at the music conservatory.
 - **Methods**: SQL, PLSQL
 - 🔗 GitHub: [github/Database_Project_Yuka](https://github.com/mathisren/Database_Project_yuka)
 
+### 🔹 Bibliographic research
+- Objectif : Conduct a literature review on a scientific article and give an oral presentation.
+- 🔗 PDF : [Presentation (PDF)](presentation.pdf)
+
+### 🔹 NLP - Automatic data processing
+- Objectif : Development of an interface enabling the extraction, processing, and analysis of tweets
+- Méthodes : Bert, Deep learning, JSON, SQLlite
+- 🔗 Github : [github/Interface_NLP](https://github.com/mathisren/NLP_Interface)
+
 ---
 
 ## 📄 CV
