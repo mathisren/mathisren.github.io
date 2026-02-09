@@ -16,7 +16,7 @@ Je pratique également la musique au conservatoire
 - **Contexte** : projet académique en bio-informatique
 - **Objectif** : calcul et visualisation du profil d’hydrophobicité d’une protéine à partir de sa séquence
 - **Langage de programmation** : Python
-- 🔗 **Code** : https://github.com/
+- 🔗 **Code** : [github.com/BioUtils](https://github.com/mathisren/BioUtils)
 
 
 ### 🔹 Projet – Poster Scientifique
@@ -26,7 +26,12 @@ Je pratique également la musique au conservatoire
 ### 🔹 Projet – RegexEgales
 - Objectif : Le but de ce projet est de construire les automates minimums complets de deux expressions régulières et de tester leur égalité
 - Méthodes : Python, Lex, Yacc
-- 🔗 Github : 
+- 🔗 Github : [github.com/RegexEgales](https://github.com/mathisren/RegexEgales)
+
+### 🔹 Projet – Base de données
+- Objectif : Création d'une base de données
+- Méthodes : SQL, PLSQL
+- 🔗 Github : [github/Database_Project_Yuka](https://github.com/mathisren/Database_Project_yuka)
 
 ---
 
@@ -35,5 +40,6 @@ Je pratique également la musique au conservatoire
 
 ## 📬 Contact
 - 📧 Email : mathis.renou@ens.uvsq.fr
-- 💼 LinkedIn : [linkedin.com/in/mathis-renou](https://www.linkedin.com/in/mathis-renou/)
-- 💻 GitHub : https://github.com/mathisren
+- 💼 LinkedIn : [linkedin/mathis-renou](https://www.linkedin.com/in/mathis-renou/)
+- 💻 GitHub : [github/mathisren](https://github.com/mathisren)
+)
