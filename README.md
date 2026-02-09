@@ -1,42 +1,39 @@
-# mathisren.github.io
+# RENOU Mathis
 
-# Prénom Nom
-
-Étudiant en bio-informatique / informatique  
-Université / École – année
+Étudiant en 3e année à l’Université Paris-Saclay en Licence Double Diplôme Informatique, Sciences de la vie 
 
 ---
 
 ## 👨‍💻 À propos
-Courte description :
-- ce que tu étudies
-- ce qui t’intéresse (bio-info, data, algo, ML…)
-- tes outils principaux
+Je suis passionné par l’univers de la biologie et des technologies, et je souhaite enrichir mes connaissances et développer mes compétences dans ces domaines 
+Je pratique également la musique au conservatoire
 
 ---
 
 ## 🧬 Projets
 
-### 🔹 Projet 1 – Analyse RNA-seq
-- Objectif : …
-- Méthodes : Python, R, Snakemake
-- Résultats : …
-- 🔗 Repo : https://github.com/ton-nom/nom-du-projet
+### 🔹 BioUtils — Analyse d’hydrophobicité protéique
+- **Contexte** : projet académique en bio-informatique
+- **Objectif** : calcul et visualisation du profil d’hydrophobicité d’une protéine à partir de sa séquence
+- **Langage de programmation** : Python
+- 🔗 **Code** : https://github.com/ton-nom/nom-du-projet
 
-### 🔹 Projet 2 – Algorithmes / Data
-- Objectif : …
-- Tech : Python, C++, pandas…
-- 🔗 Repo : …
 
----
+### 🔹 Projet – Poster Scientifique
+- Objectif : Création d'un poster scientifique 
+- 🔗 PDF : [Poster scientifique (PDF)](assets/poster.pdf)
 
-## 🛠️ Compétences
-- Langages : Python, R, Bash
-- Bio-info : BLAST, FastQC, Bowtie
-- Autres : Git, Linux
+### 🔹 Projet – RegexEgales
+- Objectif : Le but de ce projet est de construire les automates minimums complets de deux expressions régulières et de tester leur égalité
+- Méthodes : Python, Lex, Yacc
+- 🔗 Github : 
 
 ---
 
 ## 📄 CV
-- CV PDF : lien (optionnel)
-- Email : prenom.nom@…
+- CV PDF : 
+
+## 📬 Contact
+- 📧 Email : mathis.renou@ens.uvsq.fr
+- 💼 LinkedIn : linkedin.com/in/mathis-renou/
+- 💻 GitHub : https://github.com/mathisren
