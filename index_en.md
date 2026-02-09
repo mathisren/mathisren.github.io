@@ -2,7 +2,7 @@
 
 # Mathis RENOU
 
-3rd-year student at Université Paris-Saclay, Double Degree in Computer Science and Life Sciences
+3rd-year student at Université Paris-Saclay, Double Degree in Computer Science and biology
 
 ---
 
@@ -21,7 +21,7 @@ I also practice music at the music conservatory.
 - 🔗 **Code**: [github.com/BioUtils](https://github.com/mathisren/BioUtils)
 
 ### 🔹 Scientific Poster
-- **Objective**: Creation of a scientific poster
+- **Objective**: Creation of a scientific poster in biology
 - 🔗 PDF: [Scientific Poster (PDF)](poster.pdf)
 
 ### 🔹 RegexEquals
