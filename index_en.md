@@ -1,4 +1,4 @@
-🇬🇧 [English version](index_en.md) | 🇫🇷 [Version française](index.md)
+🇬🇧 [English version](index_en.md) | 🇫🇷 [Version française](README.md)
 
 # Mathis RENOU
 
