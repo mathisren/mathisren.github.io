@@ -47,9 +47,6 @@ Je pratique également la musique au conservatoire
 
 ---
 
-## 📄 CV
-- CV : [CV (PDF)](poster.pdf)
-
 ## 📬 Contact
 - 📧 Email : mathis.renou@ens.uvsq.fr
 - 💼 LinkedIn : [linkedin/mathis-renou](https://www.linkedin.com/in/mathis-renou/)
