@@ -35,6 +35,14 @@ Je pratique également la musique au conservatoire
 - Méthodes : SQL, PLSQL
 - 🔗 Github : [github/Database_Project_Yuka](https://github.com/mathisren/Database_Project_yuka)
 
+### 🔹 Projet – Recherche bibliographique 
+- Objectif : Réalisation d'une recherche bibliographique sur un article scientifique et présentation orale  
+- 🔗 PDF : [Présentation (PDF)](presentation.pdf)
+
+### 🔹 Projet – NLP - Traitement automatique des données
+- Objectif : Développement d'une interface permettant l'extraction, le traitement et l'analyse de tweets
+- Méthodes : Bert, Deep learning, JSON, SQLlite
+- 🔗 Github : [github/Interface_NLP](https://github.com/mathisren/NLP_Interface)
 ---
 
 ## 📄 CV
@@ -44,4 +52,3 @@ Je pratique également la musique au conservatoire
 - 📧 Email : mathis.renou@ens.uvsq.fr
 - 💼 LinkedIn : [linkedin/mathis-renou](https://www.linkedin.com/in/mathis-renou/)
 - 💻 GitHub : [github/mathisren](https://github.com/mathisren)
-)
