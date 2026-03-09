@@ -2,7 +2,7 @@
 
 # Mathis RENOU
 
-3rd-year student at Université Paris-Saclay, Double Degree in Computer Science and biology
+3rd-year student at Université Paris-Saclay, Undergraduate double degree in Computer Science and biology
 
 ---
 
