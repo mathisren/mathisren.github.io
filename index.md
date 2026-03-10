@@ -2,7 +2,7 @@
 
 # RENOU Mathis     
 
-Étudiant en 3e année à l’Université Paris-Saclay en Licence Double Diplôme Informatique, Sciences de la vie 
+Étudiant en 3e année à l’Université Paris-Saclay en Licence Double-Diplôme Informatique, Sciences de la vie 
 
 ---
 
