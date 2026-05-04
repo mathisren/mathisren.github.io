@@ -24,6 +24,10 @@ I also practice music at the music conservatory.
 - **Objective**: Creation of a scientific poster in biology
 - 🔗 PDF: [Scientific Poster (PDF)](poster.pdf)
 
+### 🔹 Scientific Poster 2
+- **Objective**: Creation of a scientific poster presenting the results of practical work from the course Human Genetics, Genetic Engineering and Transgenesis.
+- 🔗 PDF : [Scientific Poster 2 (PDF)](BI606_poster_COSTA_KAN_RENOU.pdf)
+
 ### 🔹 RegexEquals
 - **Objective**: Build complete minimal automata for two regular expressions and test their equality
 - **Methods**: Python, Lex, Yacc
