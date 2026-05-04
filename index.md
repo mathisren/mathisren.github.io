@@ -22,8 +22,12 @@ Je pratique également la musique au conservatoire
 
 
 ### 🔹 Projet – Poster Scientifique
-- Objectif : Création d'un poster scientifique 
+- Objectif : Création d'un poster scientifique sur la plateforme technologique DISSECT du Laboratoire de Génétique et Biologie Cellulaire (LGBC) - UVSQ
 - 🔗 PDF : [Poster scientifique (PDF)](poster.pdf)
+
+### 🔹 Projet – Poster Scientifique 2
+- Objectif : Création d'un poster scientifique sur les résultats de TP de l'UE Génétique Humaine, Génie Génétique et Transgenèse
+- 🔗 PDF : [Poster scientifique 2 (PDF)](BI606_poster_COSTA_KAN_RENOU.pdf)
 
 ### 🔹 Projet – RegexEgales
 - Objectif : Le but de ce projet est de construire les automates minimums complets de deux expressions régulières et de tester leur égalité
