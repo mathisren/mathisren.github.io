@@ -20,14 +20,13 @@ Je pratique également la musique au conservatoire
 - **Langage de programmation** : Python
 - 🔗 **Code** : [github.com/BioUtils](https://github.com/mathisren/BioUtils)
 
-
 ### 🔹 Projet – Poster Scientifique
 - Objectif : Création d'un poster scientifique sur la plateforme technologique DISSECT du Laboratoire de Génétique et Biologie Cellulaire (LGBC) - UVSQ
-- 🔗 PDF : [Poster scientifique (PDF)](poster.pdf)
+- 🔗 PDF : [Poster scientifique](poster.pdf)
 
 ### 🔹 Projet – Poster Scientifique 2
 - Objectif : Création d'un poster scientifique sur les résultats de TP de l'UE Génétique Humaine, Génie Génétique et Transgenèse
-- 🔗 PDF : [Poster scientifique 2 (PDF)](BI606_poster_COSTA_KAN_RENOU.pdf)
+- 🔗 PDF : [Poster scientifique 2](BI606_poster_COSTA_KAN_RENOU.pdf)
 
 ### 🔹 Projet – RegexEgales
 - Objectif : Le but de ce projet est de construire les automates minimums complets de deux expressions régulières et de tester leur égalité
@@ -41,13 +40,17 @@ Je pratique également la musique au conservatoire
 
 ### 🔹 Projet – Recherche bibliographique 
 - Objectif : Réalisation d'une recherche bibliographique sur un article scientifique et présentation orale  
-- 🔗 PDF : [Présentation (PDF)](presentation.pdf)
+- 🔗 PDF : [Présentation](presentation.pdf)
+
+## 🔹 Projet – Recherche et analyse d'article scientifique
+- Objectif : Implémentation et comparaison des algorithmes Louvain et Leiden appliqués à des données biologiques d'interactions protéiques. Présentation orale des résultats.
+- Méthodes : Python, algorithmique des graphes, structures de données, réseaux d'interactions protéiques
+- 🔗 PDF : [Présentation](DYBI600_presentation.pdf)
 
 ### 🔹 Projet – NLP - Traitement automatique des données
 - Objectif : Développement d'une interface permettant l'extraction, le traitement et l'analyse de tweets
 - Méthodes : Bert, Deep learning, JSON, SQLlite
 - 🔗 Github : [github/Interface_NLP](https://github.com/mathisren/NLP_Interface)
-
 
 ---
 
