@@ -42,7 +42,7 @@ Je pratique également la musique au conservatoire
 - Objectif : Réalisation d'une recherche bibliographique sur un article scientifique et présentation orale  
 - 🔗 PDF : [Présentation](presentation.pdf)
 
-## 🔹 Projet – Recherche et analyse d'article scientifique
+## 🔹 Projet – Analyse d'article scientifique
 - Objectif : Implémentation et comparaison des algorithmes Louvain et Leiden appliqués à des données biologiques d'interactions protéiques. Présentation orale des résultats.
 - Méthodes : Python, algorithmique des graphes, structures de données, réseaux d'interactions protéiques
 - 🔗 PDF : [Présentation](DYBI600_presentation.pdf)
