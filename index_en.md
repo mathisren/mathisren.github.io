@@ -42,6 +42,11 @@ I also practice music at the music conservatory.
 - Objectif : Conduct a literature review on a scientific article and give an oral presentation.
 - 🔗 PDF : [Presentation (PDF)](presentation.pdf)
 
+### 🔹 Project – Scientific Article Analysis
+- Objective: Implementation and comparison of the Louvain and Leiden algorithms applied to biological protein interaction data. Oral presentation of results.
+- Methods: Python, graph algorithms, data structures, protein interaction networks
+- 🔗 PDF: [Presentation](DYBI600_presentation.pdf)
+
 ### 🔹 NLP - Automatic data processing
 - Objectif : Development of an interface enabling the extraction, processing, and analysis of tweets
 - Méthodes : Bert, Deep learning, JSON, SQLlite
