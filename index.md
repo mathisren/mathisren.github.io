@@ -22,7 +22,6 @@ Je pratique également la musique au conservatoire
 
 ### 🔹 Projet – Poster Scientifique
 - Objectif : Création d'un poster scientifique sur la plateforme technologique DISSECT du Laboratoire de Génétique et Biologie Cellulaire (LGBC) - UVSQ
-- 🔗 PDF : [Poster scientifique](poster.pdf)
 
 ### 🔹 Projet – Poster Scientifique 2
 - Objectif : Création d'un poster scientifique sur les résultats de TP de l'UE Génétique Humaine, Génie Génétique et Transgenèse
