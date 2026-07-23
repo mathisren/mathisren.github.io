@@ -22,7 +22,6 @@ I also practice music at the music conservatory.
 
 ### 🔹 Scientific Poster
 - **Objective**: Creation of a scientific poster in biology
-- 🔗 PDF: [Scientific Poster (PDF)](poster.pdf)
 
 ### 🔹 Scientific Poster 2
 - **Objective**: Creation of a scientific poster presenting the results of practical work from the course Human Genetics, Genetic Engineering and Transgenesis.
