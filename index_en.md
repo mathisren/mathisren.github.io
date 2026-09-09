@@ -2,13 +2,13 @@
 
 # Mathis RENOU
 
-3rd-year student at Université Paris-Saclay, Undergraduate double degree in Computer Science and biology
+1st-year graduate student in Genetics at Université Paris-Cité
 
 ---
 
 ## 👨‍💻 About Me
-I am passionate about biology and technology, aiming to expand my knowledge and develop my skills in these fields.  
-I also practice music at the music conservatory.
+
+Currently a 1st-year graduate student in Genetics at Université Paris-Cité, pursuing a Master's degree and enrolled in the European Genetics Magistère program, after completing an undergraduate double degree in Computer Science and Biology at Université Paris-Saclay. Interested in genetics and its applications, as well as the connections between biology and computer science, I am always looking to explore new ideas at the intersection of these fields.
 
 ---
 
