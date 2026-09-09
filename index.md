@@ -2,13 +2,12 @@
 
 # RENOU Mathis     
 
-Étudiant en 3e année à l’Université Paris-Saclay en Licence Double-Diplôme Informatique, Sciences de la vie 
+Étudiant en 1re année du Master de Génétique à l’Université Paris-Cité - Magistère Européen de Génétique
 
 ---
 
 ## 👨‍💻 À propos
-Je suis passionné par l’univers de la biologie et des technologies, et je souhaite enrichir mes connaissances et développer mes compétences dans ces domaines 
-Je pratique également la musique au conservatoire
+Actuellement étudiant en 1re année du Master de Génétique à l'Université Paris-Cité, intégré au Magistère Européen de Génétique, après avoir suivi une licence double diplôme Biologie-Informatique. Intéressé par la génétique et ses applications, ainsi que par les liens entre biologie et informatique, je cherche à explorer de nouvelles idées à l'interface de ces domaines.
 
 ---
 
